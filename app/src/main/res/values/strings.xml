@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiActivity</string>
+
+    <string name="hello_world">No Parent</string>
+    <string name="activity_a">from Activity A</string>
+    <string name="activity_b">from Activity B</string>
+    <string name="activity_c">from Activity C</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_a">Activity A</string>
+    <string name="title_activity_activity_b">Activity B</string>
+    <string name="title_activity_activity_c">Activity C</string>
+    <string name="activity_a_button">Go to A</string>
+    <string name="activity_b_button">Go to B</string>
+    <string name="activity_c_button">Go to C</string>
+</resources>
